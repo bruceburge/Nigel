@@ -1,0 +1,6 @@
+c:\users\bburge\documents\visual studio 2013\Projects\Nigel\Nigel\bin\Debug\Nigel.exe.config
+c:\users\bburge\documents\visual studio 2013\Projects\Nigel\Nigel\obj\Debug\Nigel.csprojResolveAssemblyReference.cache
+c:\users\bburge\documents\visual studio 2013\Projects\Nigel\Nigel\bin\Debug\Nigel.exe
+c:\users\bburge\documents\visual studio 2013\Projects\Nigel\Nigel\bin\Debug\Nigel.pdb
+c:\users\bburge\documents\visual studio 2013\Projects\Nigel\Nigel\obj\Debug\Nigel.exe
+c:\users\bburge\documents\visual studio 2013\Projects\Nigel\Nigel\obj\Debug\Nigel.pdb
